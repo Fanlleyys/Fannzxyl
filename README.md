@@ -1,13 +1,13 @@
-👋 Hi there, I’m @Fannzxyl!
+Hi, I’m @Fannzxyl.
 
-👀 I'm passionate about the world of technology, especially in mobile and web development, exploring the gaming scene, and occasionally geeking out over anime and manga.
+I have a strong interest in technology, with a primary focus on mobile and web development. I also enjoy exploring the game development space and have a personal interest in anime and manga, which often inspire my creativity.
 
-🌱 Currently, I’m on a journey of continuous learning — diving into programming and expanding my skills in the tech space.
+I am currently committed to continuous learning, actively developing my programming skills and deepening my understanding of modern technologies.
 
-💞️ I’m open to collaborations, especially on open-source projects related to Android, web development, or even game development.
+I am open to collaboration, particularly on open-source projects related to Android development, web development, or game development.
 
-📫 Reach me at: Instagram: @Fanlly
+You can reach me via Instagram: @Fanlly
 
-😄 Pronouns: He/Him
+Pronouns: He/Him
 
-⚡ Fun fact: Always on the hunt for new knowledge and creative challenges!
+Fun fact: I am highly motivated by learning new things and enjoy tackling creative and technical challenges.
